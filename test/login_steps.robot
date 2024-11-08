@@ -1,11 +1,6 @@
 *** Settings ***
-Library    SeleniumLibrary
 Resource    ../resources/login_keywords.resource
-Suite Setup    Open Browser    browser=${BROWSER}
-
-*** Variables ***
-
-${BROWSER}    chrome
+Suite Setup    Open Browser    browser=chrome
 
 *** Test Cases ***
 Successful Login Test
