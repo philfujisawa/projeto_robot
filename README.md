@@ -57,7 +57,9 @@ robot tests/
 
 ## 🧪 How It Works
 **1. Setup**: Robot Framework initializes the testing environment, including browser.
+
 **2. Test Execution**: Executes test cases defined in the tests/ directory.
+
 **3. Reporting**: Generates detailed logs and reports for all test cases to analyze results effectively.
 
 

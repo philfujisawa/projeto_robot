@@ -55,7 +55,9 @@ robot tests/
 
 ## 🧪 How It Works
 **1. Configuração**: O Robot Framework inicializa o ambiente de testes, incluindo conexões com navegadores.
+
 **2. Execução dos Testes**: Executa os casos de teste definidos no diretório tests/.
+
 **3. Relatórios**: Gera logs e relatórios detalhados para análise dos resultados dos testes.
 
 
